@@ -12,7 +12,7 @@
 
 ##Gameplay Instructions 
 <p>
-1. Start the game and control the snake using the arrow keys:
+1. Start the game and control the snake using the arrow keys: <br>
    - **Up Arrow**: Move up <br>
    - **Down Arrow**: Move down<br>
    - **Left Arrow**: Move left<br>
