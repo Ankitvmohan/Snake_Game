@@ -18,7 +18,7 @@
    - **Left Arrow**: Move left<br>
    - **Right Arrow**: Move right<br>
 2. Guide the snake to eat the food (displayed as a green round dot) to increase its length.<br>
-3. Avoid colliding with the walls or the snake's own body or else the GAME ENDS! <br></p>
+3. Avoid colliding with the walls or the snake's body, or else the GAME ENDS! <br></p>
 
 This project is open-source. Feel free to modify and use it as you like.
 
